@@ -63,7 +63,7 @@ function main()
     end
     println("\nCalculation complete. Plotting...")
 
-    # Create the heatmap plot
+    #plot
     plt = heatmap(
         x_range,
         v_range,
