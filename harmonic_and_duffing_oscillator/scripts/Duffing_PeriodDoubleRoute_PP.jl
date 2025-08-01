@@ -19,7 +19,7 @@ function generate_attractor_plot(δ, β, α, γ, ω)
     x0, v0 = 0.0, 0.0
     t_max, h = 1000.0, 0.01
     
-    # Time after which we start plotting to ignore transients
+    #  transients
     t_transient = 200.0
 
     p = plot(
