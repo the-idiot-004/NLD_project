@@ -1,4 +1,4 @@
-# Nonlinear Dynamics Explorations in Julia
+# Nonlinear Dynamics
 
 This repository is an archive of my projects and simulations in the field of nonlinear dynamics (NLD). Each folder contains a separate, self-contained study on a specific topic.
 
