@@ -2,7 +2,7 @@
 This project simulates the behavior of a harmonic and duffing oscillator using the RK4 method.
 - The final plots can be found in the `/results` directory.
 - The code can be found in the `/scripts` directory.
-- 
+
 # Results: Harmonic and Duffing Oscillator
 
 This folder contains the output images and animations generated from numerical simulations of the Harmonic and Duffing oscillators. Each file provides a specific insight into the oscillator's dynamics. For a detailed explanation of the methodology and results, please refer to the report PDF.
