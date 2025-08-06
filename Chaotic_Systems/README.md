@@ -1,4 +1,4 @@
-# Chaotic Systems — NLD Project
+# Chaotic Systems
 
 This module is part of the **Nonlinear Dynamics** project and explores three fundamental chaotic systems: **Lorenz**, **Rössler**, and **Hindmarsh–Rose** models. Each script simulates, visualizes, and analyzes characteristic behaviors such as **Period double route to chaos**, **strange attractors**, and **sensitivity to initial conditions**.
 
