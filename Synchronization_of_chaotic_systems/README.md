@@ -13,15 +13,6 @@ This module explores the synchronization behavior of chaotic systems like the Lo
 
 ---
 
-##  Source Files (.jl for Pluto)
-
-> Use these with Pluto.jl to view/edit live notebooks.
-
--  [`Coupled_lorenz2Sys_dynamics.jl`](Coupled_lorenz2Sys_dynamics.jl)
--  [`Coupled_rossler_system.jl`](Coupled_rossler_system.jl)
-
----
-
 This folder also contains figures generated from the notebooks:
 
 ---
